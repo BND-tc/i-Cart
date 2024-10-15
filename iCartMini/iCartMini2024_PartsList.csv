@@ -1,0 +1,35 @@
+番号,型番,品名,図面番号,個数,メーカー,調達先,備考,SW-ﾌｧｲﾙ名(File Name)
+1,WP12-12,完全密封型鉛蓄電池,,2,LONG,秋月電子,12V12Ah_F2端子,Battery12V12Ah
+2,JTRB-AM-A130-B86-T3-P40-Q40-E5-H23-X25-Y8-G70-N5-L120-S8-W70-NA5,iCartMini2024_MotorBracket,20241005-11,2,MISUMI,MISUMI,平板ﾌﾞﾗｹｯﾄ-四角穴ﾀｲﾌﾟｰ,iCartMini2024_MotorBracket
+3,JTAB-AM-A75-B100-T1.5-X6-G88-N5-L21-V48-W92-NA3,iCartMini_MotorDriverBracket,20241005-6,1,MISUMI,MISUMI,平板ﾌﾞﾗｹｯﾄｰ汎用ﾀｲﾌﾟｰ,iCartMini_MotorDriverBracket
+4,CPUB-AM-T2-A30-B97-L142-F122-H10-N3,iCartMini_PowerSupplyBoardBracket,20241005-9,1,MISUMI,MISUMI,平板ﾌﾞﾗｹｯﾄｰ汎用ﾀｲﾌﾟｰ,iCartMini_PowerSupplyBoardBracket
+5,RSSC-SU-D12-L101-M5-MA5-KC0-A70,iCartMini_Shaft,20241005-2,2,MISUMI,MISUMI,回転軸-ｽﾄﾚｰﾄ-,iCartMini_Shaft
+6,SNAA-AM-A60-B40-T2-E10-W20-N5-L30-G10-D12,iCartMini_SwitchBracket,20241005-10,1,MISUMI,MISUMI,平板ﾌﾞﾗｹｯﾄ-ねじ型ｾﾝｻ取付ﾀｲﾌﾟｰ,iCartMini_SwitchBracket
+7,BCBA-AM-H36-T3-D22-S6-V12-Q0-N0,iCartMini_WheelCap,20241005-4,2,MISUMI,MISUMI,汎用ﾎﾙﾀﾞ,iCartMini_WheelCap
+8,SHTE-AM-H36-L16-D22-T5-P12-E6-G22-Q29-N3-MA0,iCartMini_WheelHub,20241004-3,2,MISUMI,MISUMI,ｼｬﾌﾄ/支柱ﾎﾙﾀﾞ-ｲﾝﾛｰﾀｲﾌﾟ-/ｽｸﾘｭｰﾎﾙﾀﾞ,iCartMini_WheelHub
+9,NFS5-2020-122-TPW-AH61,アルミフレーム,,2,MISUMI,MISUMI,L=122両端タップ_レンチ穴加工,NFS5-2020
+10,NFS5-2020-122-TPW,アルミフレーム,,1,MISUMI,MISUMI,L=122両端タップ,NFS5-2020
+11,NFS5-2020-150-TPW,アルミフレーム,,3,MISUMI,MISUMI,L=150両端タップ,NFS5-2020
+12,NFS5-2040-162,アルミフレーム,,2,MISUMI,MISUMI,L=162,NFS5-2040
+13,NFS5-2020-241-LCH-RCP,アルミフレーム,,2,MISUMI,MISUMI,L=241複数レンチ穴,NFS5-2020
+14,NFS5-2040-300-RCV-AH69,アルミフレーム,,2,MISUMI,MISUMI,L=300複数レンチ穴,NFS5-2040
+15,HNTT5-5,アルミフレーム用先入れナット,,26,MISUMI,MISUMI,5シリーズ(溝幅6mm)）用_M5,HNTT5-5
+16,HCJ5,ブラインドジョイント,,12,MISUMI,MISUMI,5シリーズ_スクリュージョイント,HCJ5
+17,HBLFSNF5,ブラケット,,4,MISUMI,MISUMI,5シリーズ_1列溝用_突起付反転ブラケット,HBLFSNF5
+18,HPTSD5,プレートブラケット,,2,MISUMI,MISUMI,5シリーズ用正方形t2.3_三価クロメート,HPTSD5
+19,KEG4-45,平行キー,,2,MISUMI,MISUMI,L45片端丸型,MachineKey
+20,CBE5-8,六角穴付ボルト,,26,MISUMI,MISUMI,M5-8_三価ホワイト,HexagonSocketScrew
+21,CBE5-10,六角穴付ボルト,,4,MISUMI,MISUMI,M5-10_三価ホワイト,HexagonSocketScrew
+22,SAJ-TS6-100VPA K,緩衝スプリングキャスターV TS6シリーズ,,2,SISIKU,MISUMI,車輪径100mm許容荷重(daN)68,SAJ-TS6-100
+23,CSPPNSB-SUS-TP3-16,十字穴付ナベタッピンねじ,,8,SUNCO,MISUMI,M3-16,TappingScrew
+24,WSX-ST3W-M5X15-2,平ワッシャー,,10,SUNCO,MISUMI,,Washer
+25,CB-IBP-1-5A,サーキットプロテクタ,,1,アムトランス,千石電商,遮断電流5A,CB-IBP-1-5A
+26,KY60094,ソフトキャスター,,2,カワムラサイクル,車いす専門店まるこ,6インチエアレスタイヤのみ,KY60094
+27,TF-C-MDPW-S,i-Cart miniケーブルセット,,1,ツジ電子,ツジ電子,,iCartMini_PowerSupplyWireSet
+28,TF-M30-24-3500-G15R,ブラシレスモータ,,1,ツジ電子,ツジ電子,右ギアヘッド15:1,TF-M30-24-3500-G15R
+29,TF-M30-24-3500-G15L,ブラシレスモータ,,1,ツジ電子,ツジ電子,左ギアヘッド15:1,TF-M30-24-3500-G15L
+30,TF-PW36-5/12M,電源基板,,1,ツジ電子,ツジ電子,15-36V入力_12V5V出力,TF-PW36-5_12M
+31,TF-2MD3-R6,二軸モータドライバ,,1,ツジ電子,ツジ電子,,TF-2MD3-R6
+32,,平行キー,,2,ツジ電子,ツジ電子,L25片端丸型モータ付属品,MachineKey
+33,,六角ナット,,4,ツジ電子,ツジ電子,M5_モータ付属品,Nut
+34,,六角穴付ボルト,,4,ツジ電子,ツジ電子,M5-60_モータ付属品,HexagonSocketScrew
